@@ -4,7 +4,7 @@
 
 ## 📷 Deploy
 
-<h3>LINK: https://musicfy-bs.vercel.app/</h3>
+<h3>LINK: https://musicfy-bs.vercel.app</h3>
 <a href="https://musicfy-bs.vercel.app/" target="_blank">
  <img src="preview.png" width="100%" style="border-radius: 6px" />
 </a>
