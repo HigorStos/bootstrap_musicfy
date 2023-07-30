@@ -18,5 +18,4 @@ Projeto próprio, onde consegui aplicar os conceitos de Bootstrap para a criaç�
 - CSS
 
 ## 📔 Conhecimentos utilizados
-- [x] Bootstrap
-- [x] Responsividade
+- [x] Responsividade Bootstrap
